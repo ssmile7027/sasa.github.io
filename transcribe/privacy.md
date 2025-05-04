@@ -1,4 +1,4 @@
-Mark Win built the Speech to Text app as a Freemium app. This SERVICE is provided by Freemium at no cost and is intended for use as is.
+Sasa built the Transcribe app as a Freemium app. This SERVICE is provided by Freemium at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -71,4 +71,4 @@ This policy is effective as of 2023-04-02
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at zyang7027@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sasa615201@gmail.com.
